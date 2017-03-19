@@ -81,19 +81,19 @@ input[type=search]:focus {
      color: #2aabd2;
      text-decoration: none;
  }
-.table {
+.tablec {
     height:140px;
     width:230px;
     padding:3px;
     border:1px solid #000000;
     border-radius:10px;
 }
-.table p {
+.tablec p {
     font-family:Arial sans-serif;
     color:#0f0f0f;
     padding-right:25px;
 }
-.table {
+.tablec {
     background:url("img/logo2.png")left top no-repeat;margin-bottom:5px;
 }
 .tables {
