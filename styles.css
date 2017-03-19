@@ -1,0 +1,154 @@
+.navbar-brand {
+    background: url("img/foot2.jpg")center/contain no-repeat;width: 150px;
+    margin-top: 3px;
+}
+.navbar-search {
+    margin-top: 8px;
+}
+input[type=search] {
+    -webkit-appearance: textfield;
+    -webkit-box-sizing: content-box;
+    font-family: inherit;
+    font-size: 100%;
+}
+input::-webkit-search-decoration,
+input::-webkit-search-cancel-button{
+    display: none;
+}
+
+input[type=search] {
+    background: #ededed url("img/search-strong.png")no-repeat 9px center;
+    border: solid 1px #ccc;
+    padding: 9px 10px 9px 32px;
+    width: 100px;
+
+    -webkit-border-radius: 10em;
+    -moz-border-radius: 10em;
+    border-radius: 10em;
+
+    -webkit-transition: a11 .5s;
+    -moz-transition: a11 .5s;
+    transition: all .5s;
+}
+input[type=search]:focus {
+    width: 130px;
+    background-color: #fff;
+    border-color: #6dcff6;
+
+    -webkit-box-shadow: 0 0 5px;
+    rgba(109,207,246,.5);
+    -moz-box-shadow: 0 0 5px;
+    rgba(109,207,246,.5);
+    box-shadow: 0 0 5px;
+    rgba(109,207,246,.5);
+}
+ form {
+     margin: 7px;
+    padding-left: 330px;
+    margin-top: -43px;
+}
+ img {
+     padding-left: 685px;
+     margin-top: -67px;
+
+ }
+ body {
+     padding-top: 50px;
+     margin-top: -50px;
+ }
+ .splash {
+     padding: 9em 0 2em;
+     background-image: url("img/foot1.jpg");
+     background-size: cover;
+     background-attachment: fixed;
+     color: #000000;
+     text-align: center;
+     margin-top: -19px;
+ }
+ h1 {
+     margin-top: -55px;
+ }
+ .top-menu {
+     background: #ffffff;
+     height: 30px;
+     display: inline-block;
+
+ }
+ .top-menu a {
+     margin-right: 140px;
+     font-family: Arial sans-serif;
+     font-size: 14px;
+     color: #2aabd2;
+     text-decoration: none;
+ }
+.tableс {
+    height: 140px;
+    width: 230px;
+    padding: 3px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+
+}
+
+.tableс p{
+    font-family: Arial sans-serif;
+    color: #0f0f0f;
+    padding-right: 25px;
+}
+
+.tableс {
+    background: url("img/logo2.png")left top no-repeat;margin-bottom: 5px;
+}
+
+.tables {
+    height: 140px;
+    width: 230px;
+    padding: 3px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+.tables p {
+    font-family: Arial sans-serif;
+    color: #0f0f0f;
+    padding-right: 25px;
+}
+.tables {
+    background: url("img/bilbao.gif")left top no-repeat;
+}
+.table {
+    width: 50px;
+    height: 10px;
+    font-family: Arial sans-serif;
+    font-size: 9px;
+}
+td img {
+    padding-left: 0;
+    margin-top: 1px;
+}
+.banner img {
+    padding-right: 20px;
+    margin-top: -3150px;
+
+}
+.banners img {
+    padding-right: 20px;
+    margin-top: -2950px;
+}
+ .title {
+     padding-left:450px;
+    margin-top: -1650px;
+     font-family: Arial sans-serif;
+     font-size: 14px;
+     color: #ffffff;
+     background: url("img/pramo.jpg")center/contain no-repeat;
+     position: relative;
+     font-weight: bold;
+     text-shadow: #101623 1px 1px 1px;
+     height: 23px;
+     z-index: 1;
+     line-height: 1.2em;
+}
+ 
+
+
+
