@@ -103,10 +103,10 @@ input[type=search]:focus {
     border:1px solid #000000;
     border-radius:10px;
 }
-.table p {
+.tables p {
     font-family:Arial sans-serif;
     color:#0f0f0f;
     padding-right:25px;
 }
-.table {
+.tables {
     background:url("img/bilbao.gif")left top no-repeat;
